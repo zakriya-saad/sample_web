@@ -1,0 +1,20 @@
+body{
+/* 
+    justify-content: space-evenly; */
+
+    background-image: url('mainbg.jpg');
+    background-attachment: fixed;
+    margin:auto
+}
+form>div {
+    margin: 30vh 2vh;;
+    padding: 25px;
+    border: 2px solid green;
+    background-image: url('mainbg.jpg');
+
+}
+div>div{
+margin:vh 4vh;
+}
+form>div>div>p{
+    display: inline;
